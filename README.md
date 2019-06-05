@@ -5,6 +5,7 @@ Log into the container by getting the token from the output of the following com
 ```
 docker logs jupyter_pydata
 ```
+The jupyter UI can be accessed with a browser on localhost:8887.
 After logging in just use jupyter upload functionality to upload the content of this folder.
 If you want to keep the container just remove the --rm option in the run.sh script.
 

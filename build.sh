@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build --build-arg JUPYTER_UID=1040 --tag jupyter_pydata .
+docker build --tag jupyter_pydata .
