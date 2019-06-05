@@ -5,4 +5,6 @@ Data was taken from a website of the university of Koblenz [Physiscians dataset 
 ## References
 This talk was mainly inspired by the Coursera Course [Social and Economic
 Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+[Networkx package documentation](https://networkx.github.io/documentation/stable/index.html)
+
 
