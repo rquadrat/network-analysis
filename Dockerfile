@@ -17,3 +17,4 @@ RUN jupyter nbextension enable execute_time/ExecuteTime
 RUN jupyter nbextension enable collapsible_headings/main
 RUN jupyter nbextension enable toc2/main
 RUN jupyter nbextension enable hide_input/main
+RUN jupyter nbextension enable code_font_size/code_font_size
